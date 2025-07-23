@@ -10,7 +10,7 @@ With over four years of experience, I've crafted responsive, data-driven web app
 ### ResuMint (Apr 2025 - Present)
 My magnum opus, so to say. Very much still a work in progress.  
 An AI-powered resume builder and job analysis tool engineered with Next.js, TypeScript, and React. Features a drag-and-drop UI with dnd-kit, optimized with memoization, and type-safe state management with Zod and Zustand. Uses Tectonic with cache-warming for sub-3-second PDF generation or live previews. Deployed on Vercel at [resumint.co](https://resumint.co).  
-Check it out on [GitHub](https://github.com/yourusername/resumint)!  
+Check it out on [GitHub](https://github.com/nikolaybutnik/resu-mint)!  
 
 ### Whirlpool Project Lodestar (2023 - 2024)
 Developed a full-stack app that boosted manufacturing plant efficiency by 12% across the United States and Mexico, using Angular and FastAPI backend. Improved UI performance by 20% by optimizing data flow via reactive NgRx pipelines, and integrated end-to-end testing with Cypress. (Proprietary, happy to share details in discussion!)
