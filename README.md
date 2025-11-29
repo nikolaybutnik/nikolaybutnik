@@ -1,6 +1,6 @@
 # Hey, I'm Nik 👋
 
-I'm a frontend-leaning software developer with who loves building clean, user-friendly web apps with React, TypeScript, and Next.js. I get excited about turning complex data into intuitive interfaces that make a difference, whether it's streamlining workflows or empowering users. I thrive in collaborative settings, writing modular code and learning new tech to create impactful solutions. 🌟
+I'm a frontend-leaning software developer who loves building clean, user-friendly web apps with React, TypeScript, and Next.js. I get excited about turning complex data into intuitive interfaces that make a difference, whether it's streamlining workflows or empowering users. I thrive in collaborative settings, writing modular code and learning new tech to create impactful solutions. 🌟
 
 ## About Me
 With over four years of experience, I've crafted responsive, data-driven web apps for e-commerce and SaaS platforms, plus freelance projects that keep my skills sharp. My recent work, ResuMint, is an AI-powered tool that helps job seekers shine. I'm passionate about clean code, open-source possibilities, and building interfaces that users love. Always eager to grow, I'm diving into new areas like data visualization and modern frameworks.
